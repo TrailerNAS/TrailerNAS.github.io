@@ -2,7 +2,7 @@
 layout: post
 title: Fake it till you make it
 subtitle: by Elvin Morales
-cover-img: /assets/img/path.jpg
+cover-img: /assets/195636.webp
 thumbnail-img: /assets/ÆSystem Repair (Logo).png
 share-img: /assets/img/path.jpg
 ---
