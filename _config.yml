@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Appointment: "https://.com"
     - Maps: "https://www.google.com/maps/dir//221+Central+Ave,+Long+Prairie,+MN+56347/@45.9739205,-94.8644351,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x52b5dce0f0253e79:0x399fd695ced6260b!2m2!1d-94.8618602!2d45.9739168!3e0"
-  N/A: "https://.com"
+ # N/A: "https://.com"
 
 ################
 # --- Logo --- #
