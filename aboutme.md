@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: We are a small family on 5 Me my Wife, my 2 beautifull boys and a loveley cat
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Elvin Morales.I've work hard to get to where I am. I have the following abiities or certifications:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Microsoft Excel, Word & Outlook Certification
+- Barchelor's Degree IN Information & Technologies
 
-What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My Small Company
+
+To be honest, I'm having a great time doing all this from building this website to meeting incredible people from all over the world. I'm always happy to help and if you have any questions or concerns reach out to me and I will get back to you as soon as possible.
+
+Thanks for all the support!
