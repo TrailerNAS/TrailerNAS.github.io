@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-subtitle: We are a small family on four me my wife and my 2 beautifull boys
+subtitle: We are a small family of four me my wife and my 2 beautifull boys
 ---
 
 My name is Elvin Morales. I have the following abilities or certifications:
@@ -13,6 +13,6 @@ My name is Elvin Morales. I have the following abilities or certifications:
 
 ### My Small Company
 
-To be honest, I'm having a great time doing all this from building this website to meeting incredible people from all over the world. I'm always happy to help and if you have any questions or concerns reach out to me and I will get back to you as soon as possible.
+I'm having a great time doing all this from building this website tha you are currently using to meeting incredible people from all over the world. I'm always happy to help and if you have any questions or concerns reach out to me and I will get back to you as soon as possible.
 
 Thanks for all the support!
