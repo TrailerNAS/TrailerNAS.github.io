@@ -7,7 +7,7 @@ subtitle: We are a small family of four me my wife and my 2 beautifull boys
 My name is Elvin Morales. I have the following abilities or certifications:
 
 - Microsoft Excel, Word & Outlook Certification
-- Barchelor's Degree IN Information & Technologies
+- Barchelor's Degree in Information & Technologies
 
 
 
