@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About Us
-subtitle: We are a small family on 5 Me my Wife, my 2 beautifull boys and a loveley cat
+subtitle: We are a small family on four me my wife and my 2 beautifull boys
 ---
 
-My name is Elvin Morales.I've work hard to get to where I am. I have the following abiities or certifications:
+My name is Elvin Morales. I have the following abilities or certifications:
 
 - Microsoft Excel, Word & Outlook Certification
 - Barchelor's Degree IN Information & Technologies
