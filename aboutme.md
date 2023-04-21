@@ -4,10 +4,16 @@ title: About Us
 subtitle: We are a small family of four me my wife and my 2 beautifull boys
 ---
 
-My name is Elvin Morales. I have the following abilities or certifications:
+Hi my name is Elvin Morales and I have over 10 years of expiriance working in computers and some of my abilities or certifications are the fallowing:
 
-- Microsoft Excel, Word & Outlook Certification
-- Barchelor's Degree in Information & Technologies
+- Excel
+- Word
+- Outlook
+- Coustume PC builds
+- Device Optimization
+- Servers
+- Network Attached Storage (N.A.S.)
+- Computer Repair
 
 
 
